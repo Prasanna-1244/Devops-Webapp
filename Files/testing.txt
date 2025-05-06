@@ -1,3 +1,4 @@
 This is a testing file
 
-Adding new file 123
+Adding new file
+New line
